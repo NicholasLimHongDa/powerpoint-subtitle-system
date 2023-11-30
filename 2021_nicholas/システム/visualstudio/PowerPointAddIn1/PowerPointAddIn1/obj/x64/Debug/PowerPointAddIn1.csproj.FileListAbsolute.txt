@@ -1,0 +1,136 @@
+C:\Users\Nicholas Lim\Desktop\Workspace\2020_kobayashiAzure\システム\visualstudio\PowerPointAddIn1\PowerPointAddIn1\bin\Debug\Microsoft.CognitiveServices.Speech.core.dll
+C:\Users\Nicholas Lim\Desktop\Workspace\2020_kobayashiAzure\システム\visualstudio\PowerPointAddIn1\PowerPointAddIn1\bin\Debug\Microsoft.CognitiveServices.Speech.extension.audio.sys.dll
+C:\Users\Nicholas Lim\Desktop\Workspace\2020_kobayashiAzure\システム\visualstudio\PowerPointAddIn1\PowerPointAddIn1\bin\Debug\Microsoft.CognitiveServices.Speech.extension.kws.dll
+C:\Users\Nicholas Lim\Desktop\Workspace\2020_kobayashiAzure\システム\visualstudio\PowerPointAddIn1\PowerPointAddIn1\bin\Debug\Microsoft.CognitiveServices.Speech.extension.lu.dll
+C:\Users\Nicholas Lim\Desktop\Workspace\2020_kobayashiAzure\システム\visualstudio\PowerPointAddIn1\PowerPointAddIn1\bin\Debug\Microsoft.CognitiveServices.Speech.extension.codec.dll
+C:\Users\Nicholas Lim\Desktop\Workspace\2020_kobayashiAzure\システム\visualstudio\PowerPointAddIn1\PowerPointAddIn1\bin\Debug\database_addin.mdf
+C:\Users\Nicholas Lim\Desktop\Workspace\2020_kobayashiAzure\システム\visualstudio\PowerPointAddIn1\PowerPointAddIn1\bin\Debug\database_addin_log.ldf
+C:\Users\Nicholas Lim\Desktop\Workspace\2020_kobayashiAzure\システム\visualstudio\PowerPointAddIn1\PowerPointAddIn1\bin\Debug\Accord.dll.config
+C:\Users\Nicholas Lim\Desktop\Workspace\2020_kobayashiAzure\システム\visualstudio\PowerPointAddIn1\PowerPointAddIn1\bin\Debug\PowerPointAddIn1.dll.config
+C:\Users\Nicholas Lim\Desktop\Workspace\2020_kobayashiAzure\システム\visualstudio\PowerPointAddIn1\PowerPointAddIn1\bin\Debug\PowerPointAddIn1.dll
+C:\Users\Nicholas Lim\Desktop\Workspace\2020_kobayashiAzure\システム\visualstudio\PowerPointAddIn1\PowerPointAddIn1\bin\Debug\PowerPointAddIn1.pdb
+C:\Users\Nicholas Lim\Desktop\Workspace\2020_kobayashiAzure\システム\visualstudio\PowerPointAddIn1\PowerPointAddIn1\bin\Debug\PowerPointAddIn1.dll.manifest
+C:\Users\Nicholas Lim\Desktop\Workspace\2020_kobayashiAzure\システム\visualstudio\PowerPointAddIn1\PowerPointAddIn1\bin\Debug\PowerPointAddIn1.vsto
+C:\Users\Nicholas Lim\Desktop\Workspace\2020_kobayashiAzure\システム\visualstudio\PowerPointAddIn1\PowerPointAddIn1\bin\Debug\Accord.dll
+C:\Users\Nicholas Lim\Desktop\Workspace\2020_kobayashiAzure\システム\visualstudio\PowerPointAddIn1\PowerPointAddIn1\bin\Debug\Accord.Math.Core.dll
+C:\Users\Nicholas Lim\Desktop\Workspace\2020_kobayashiAzure\システム\visualstudio\PowerPointAddIn1\PowerPointAddIn1\bin\Debug\Accord.Math.dll
+C:\Users\Nicholas Lim\Desktop\Workspace\2020_kobayashiAzure\システム\visualstudio\PowerPointAddIn1\PowerPointAddIn1\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\Nicholas Lim\Desktop\Workspace\2020_kobayashiAzure\システム\visualstudio\PowerPointAddIn1\PowerPointAddIn1\bin\Debug\LibNMeCab.dll
+C:\Users\Nicholas Lim\Desktop\Workspace\2020_kobayashiAzure\システム\visualstudio\PowerPointAddIn1\PowerPointAddIn1\bin\Debug\Microsoft.CognitiveServices.Speech.csharp.dll
+C:\Users\Nicholas Lim\Desktop\Workspace\2020_kobayashiAzure\システム\visualstudio\PowerPointAddIn1\PowerPointAddIn1\bin\Debug\Microsoft.Office.Tools.Common.dll
+C:\Users\Nicholas Lim\Desktop\Workspace\2020_kobayashiAzure\システム\visualstudio\PowerPointAddIn1\PowerPointAddIn1\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+C:\Users\Nicholas Lim\Desktop\Workspace\2020_kobayashiAzure\システム\visualstudio\PowerPointAddIn1\PowerPointAddIn1\bin\Debug\Microsoft.Office.Tools.dll
+C:\Users\Nicholas Lim\Desktop\Workspace\2020_kobayashiAzure\システム\visualstudio\PowerPointAddIn1\PowerPointAddIn1\bin\Debug\Microsoft.Office.Tools.v4.0.Framework.dll
+C:\Users\Nicholas Lim\Desktop\Workspace\2020_kobayashiAzure\システム\visualstudio\PowerPointAddIn1\PowerPointAddIn1\bin\Debug\Microsoft.VisualStudio.Tools.Applications.Runtime.dll
+C:\Users\Nicholas Lim\Desktop\Workspace\2020_kobayashiAzure\システム\visualstudio\PowerPointAddIn1\PowerPointAddIn1\bin\Debug\NAudio.dll
+C:\Users\Nicholas Lim\Desktop\Workspace\2020_kobayashiAzure\システム\visualstudio\PowerPointAddIn1\PowerPointAddIn1\bin\Debug\System.dll
+C:\Users\Nicholas Lim\Desktop\Workspace\2020_kobayashiAzure\システム\visualstudio\PowerPointAddIn1\PowerPointAddIn1\bin\Debug\System.ValueTuple.dll
+C:\Users\Nicholas Lim\Desktop\Workspace\2020_kobayashiAzure\システム\visualstudio\PowerPointAddIn1\PowerPointAddIn1\bin\Debug\Accord.xml
+C:\Users\Nicholas Lim\Desktop\Workspace\2020_kobayashiAzure\システム\visualstudio\PowerPointAddIn1\PowerPointAddIn1\bin\Debug\Accord.Math.xml
+C:\Users\Nicholas Lim\Desktop\Workspace\2020_kobayashiAzure\システム\visualstudio\PowerPointAddIn1\PowerPointAddIn1\bin\Debug\Accord.Math.Core.xml
+C:\Users\Nicholas Lim\Desktop\Workspace\2020_kobayashiAzure\システム\visualstudio\PowerPointAddIn1\PowerPointAddIn1\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\Nicholas Lim\Desktop\Workspace\2020_kobayashiAzure\システム\visualstudio\PowerPointAddIn1\PowerPointAddIn1\bin\Debug\Microsoft.CognitiveServices.Speech.csharp.xml
+C:\Users\Nicholas Lim\Desktop\Workspace\2020_kobayashiAzure\システム\visualstudio\PowerPointAddIn1\PowerPointAddIn1\bin\Debug\NAudio.xml
+C:\Users\Nicholas Lim\Desktop\Workspace\2020_kobayashiAzure\システム\visualstudio\PowerPointAddIn1\PowerPointAddIn1\bin\Debug\System.ValueTuple.xml
+C:\Users\Nicholas Lim\Desktop\Workspace\2020_kobayashiAzure\システム\visualstudio\PowerPointAddIn1\PowerPointAddIn1\obj\x64\Debug\PowerPointAddIn1.csprojAssemblyReference.cache
+C:\Users\Nicholas Lim\Desktop\Workspace\2020_kobayashiAzure\システム\visualstudio\PowerPointAddIn1\PowerPointAddIn1\obj\x64\Debug\PowerPointAddIn1.csproj.ResolveComReference.cache
+C:\Users\Nicholas Lim\Desktop\Workspace\2020_kobayashiAzure\システム\visualstudio\PowerPointAddIn1\PowerPointAddIn1\obj\x64\Debug\PowerPointAddIn1.Form1.resources
+C:\Users\Nicholas Lim\Desktop\Workspace\2020_kobayashiAzure\システム\visualstudio\PowerPointAddIn1\PowerPointAddIn1\obj\x64\Debug\PowerPointAddIn1.Properties.Resources.resources
+C:\Users\Nicholas Lim\Desktop\Workspace\2020_kobayashiAzure\システム\visualstudio\PowerPointAddIn1\PowerPointAddIn1\obj\x64\Debug\PowerPointAddIn1.Ribbon1.resources
+C:\Users\Nicholas Lim\Desktop\Workspace\2020_kobayashiAzure\システム\visualstudio\PowerPointAddIn1\PowerPointAddIn1\obj\x64\Debug\PowerPointAddIn1.UserControl1.resources
+C:\Users\Nicholas Lim\Desktop\Workspace\2020_kobayashiAzure\システム\visualstudio\PowerPointAddIn1\PowerPointAddIn1\obj\x64\Debug\PowerPointAddIn1.UserControl2.resources
+C:\Users\Nicholas Lim\Desktop\Workspace\2020_kobayashiAzure\システム\visualstudio\PowerPointAddIn1\PowerPointAddIn1\obj\x64\Debug\PowerPointAddIn1.csproj.GenerateResource.cache
+C:\Users\Nicholas Lim\Desktop\Workspace\2020_kobayashiAzure\システム\visualstudio\PowerPointAddIn1\PowerPointAddIn1\obj\x64\Debug\PowerPointAddIn1.csproj.CoreCompileInputs.cache
+C:\Users\Nicholas Lim\Desktop\Workspace\2020_kobayashiAzure\システム\visualstudio\PowerPointAddIn1\PowerPointAddIn1\obj\x64\Debug\PowerPointAddIn1.csproj.CopyComplete
+C:\Users\Nicholas Lim\Desktop\Workspace\2020_kobayashiAzure\システム\visualstudio\PowerPointAddIn1\PowerPointAddIn1\obj\x64\Debug\PowerPointAddIn1.dll
+C:\Users\Nicholas Lim\Desktop\Workspace\2020_kobayashiAzure\システム\visualstudio\PowerPointAddIn1\PowerPointAddIn1\obj\x64\Debug\PowerPointAddIn1.pdb
+C:\Users\Nicholas Lim\Desktop\Workspace\2021_nicholas\システム\visualstudio\PowerPointAddIn1\PowerPointAddIn1\bin\Debug\Microsoft.CognitiveServices.Speech.core.dll
+C:\Users\Nicholas Lim\Desktop\Workspace\2021_nicholas\システム\visualstudio\PowerPointAddIn1\PowerPointAddIn1\bin\Debug\Microsoft.CognitiveServices.Speech.extension.audio.sys.dll
+C:\Users\Nicholas Lim\Desktop\Workspace\2021_nicholas\システム\visualstudio\PowerPointAddIn1\PowerPointAddIn1\bin\Debug\Microsoft.CognitiveServices.Speech.extension.kws.dll
+C:\Users\Nicholas Lim\Desktop\Workspace\2021_nicholas\システム\visualstudio\PowerPointAddIn1\PowerPointAddIn1\bin\Debug\Microsoft.CognitiveServices.Speech.extension.lu.dll
+C:\Users\Nicholas Lim\Desktop\Workspace\2021_nicholas\システム\visualstudio\PowerPointAddIn1\PowerPointAddIn1\bin\Debug\Microsoft.CognitiveServices.Speech.extension.codec.dll
+C:\Users\Nicholas Lim\Desktop\Workspace\2021_nicholas\システム\visualstudio\PowerPointAddIn1\PowerPointAddIn1\bin\Debug\database_addin.mdf
+C:\Users\Nicholas Lim\Desktop\Workspace\2021_nicholas\システム\visualstudio\PowerPointAddIn1\PowerPointAddIn1\bin\Debug\database_addin_log.ldf
+C:\Users\Nicholas Lim\Desktop\Workspace\2021_nicholas\システム\visualstudio\PowerPointAddIn1\PowerPointAddIn1\bin\Debug\Accord.dll.config
+C:\Users\Nicholas Lim\Desktop\Workspace\2021_nicholas\システム\visualstudio\PowerPointAddIn1\PowerPointAddIn1\bin\Debug\PowerPointAddIn1.dll.config
+C:\Users\Nicholas Lim\Desktop\Workspace\2021_nicholas\システム\visualstudio\PowerPointAddIn1\PowerPointAddIn1\bin\Debug\PowerPointAddIn1.dll
+C:\Users\Nicholas Lim\Desktop\Workspace\2021_nicholas\システム\visualstudio\PowerPointAddIn1\PowerPointAddIn1\bin\Debug\PowerPointAddIn1.pdb
+C:\Users\Nicholas Lim\Desktop\Workspace\2021_nicholas\システム\visualstudio\PowerPointAddIn1\PowerPointAddIn1\bin\Debug\PowerPointAddIn1.dll.manifest
+C:\Users\Nicholas Lim\Desktop\Workspace\2021_nicholas\システム\visualstudio\PowerPointAddIn1\PowerPointAddIn1\bin\Debug\PowerPointAddIn1.vsto
+C:\Users\Nicholas Lim\Desktop\Workspace\2021_nicholas\システム\visualstudio\PowerPointAddIn1\PowerPointAddIn1\bin\Debug\Accord.dll
+C:\Users\Nicholas Lim\Desktop\Workspace\2021_nicholas\システム\visualstudio\PowerPointAddIn1\PowerPointAddIn1\bin\Debug\Accord.Math.Core.dll
+C:\Users\Nicholas Lim\Desktop\Workspace\2021_nicholas\システム\visualstudio\PowerPointAddIn1\PowerPointAddIn1\bin\Debug\Accord.Math.dll
+C:\Users\Nicholas Lim\Desktop\Workspace\2021_nicholas\システム\visualstudio\PowerPointAddIn1\PowerPointAddIn1\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\Nicholas Lim\Desktop\Workspace\2021_nicholas\システム\visualstudio\PowerPointAddIn1\PowerPointAddIn1\bin\Debug\LibNMeCab.dll
+C:\Users\Nicholas Lim\Desktop\Workspace\2021_nicholas\システム\visualstudio\PowerPointAddIn1\PowerPointAddIn1\bin\Debug\Microsoft.CognitiveServices.Speech.csharp.dll
+C:\Users\Nicholas Lim\Desktop\Workspace\2021_nicholas\システム\visualstudio\PowerPointAddIn1\PowerPointAddIn1\bin\Debug\Microsoft.Office.Tools.Common.dll
+C:\Users\Nicholas Lim\Desktop\Workspace\2021_nicholas\システム\visualstudio\PowerPointAddIn1\PowerPointAddIn1\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+C:\Users\Nicholas Lim\Desktop\Workspace\2021_nicholas\システム\visualstudio\PowerPointAddIn1\PowerPointAddIn1\bin\Debug\Microsoft.Office.Tools.dll
+C:\Users\Nicholas Lim\Desktop\Workspace\2021_nicholas\システム\visualstudio\PowerPointAddIn1\PowerPointAddIn1\bin\Debug\Microsoft.Office.Tools.v4.0.Framework.dll
+C:\Users\Nicholas Lim\Desktop\Workspace\2021_nicholas\システム\visualstudio\PowerPointAddIn1\PowerPointAddIn1\bin\Debug\Microsoft.VisualStudio.Tools.Applications.Runtime.dll
+C:\Users\Nicholas Lim\Desktop\Workspace\2021_nicholas\システム\visualstudio\PowerPointAddIn1\PowerPointAddIn1\bin\Debug\NAudio.dll
+C:\Users\Nicholas Lim\Desktop\Workspace\2021_nicholas\システム\visualstudio\PowerPointAddIn1\PowerPointAddIn1\bin\Debug\System.dll
+C:\Users\Nicholas Lim\Desktop\Workspace\2021_nicholas\システム\visualstudio\PowerPointAddIn1\PowerPointAddIn1\bin\Debug\System.ValueTuple.dll
+C:\Users\Nicholas Lim\Desktop\Workspace\2021_nicholas\システム\visualstudio\PowerPointAddIn1\PowerPointAddIn1\bin\Debug\Accord.xml
+C:\Users\Nicholas Lim\Desktop\Workspace\2021_nicholas\システム\visualstudio\PowerPointAddIn1\PowerPointAddIn1\bin\Debug\Accord.Math.xml
+C:\Users\Nicholas Lim\Desktop\Workspace\2021_nicholas\システム\visualstudio\PowerPointAddIn1\PowerPointAddIn1\bin\Debug\Accord.Math.Core.xml
+C:\Users\Nicholas Lim\Desktop\Workspace\2021_nicholas\システム\visualstudio\PowerPointAddIn1\PowerPointAddIn1\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\Nicholas Lim\Desktop\Workspace\2021_nicholas\システム\visualstudio\PowerPointAddIn1\PowerPointAddIn1\bin\Debug\Microsoft.CognitiveServices.Speech.csharp.xml
+C:\Users\Nicholas Lim\Desktop\Workspace\2021_nicholas\システム\visualstudio\PowerPointAddIn1\PowerPointAddIn1\bin\Debug\NAudio.xml
+C:\Users\Nicholas Lim\Desktop\Workspace\2021_nicholas\システム\visualstudio\PowerPointAddIn1\PowerPointAddIn1\bin\Debug\System.ValueTuple.xml
+C:\Users\Nicholas Lim\Desktop\Workspace\2021_nicholas\システム\visualstudio\PowerPointAddIn1\PowerPointAddIn1\obj\x64\Debug\PowerPointAddIn1.csprojAssemblyReference.cache
+C:\Users\Nicholas Lim\Desktop\Workspace\2021_nicholas\システム\visualstudio\PowerPointAddIn1\PowerPointAddIn1\obj\x64\Debug\PowerPointAddIn1.csproj.ResolveComReference.cache
+C:\Users\Nicholas Lim\Desktop\Workspace\2021_nicholas\システム\visualstudio\PowerPointAddIn1\PowerPointAddIn1\obj\x64\Debug\PowerPointAddIn1.Form1.resources
+C:\Users\Nicholas Lim\Desktop\Workspace\2021_nicholas\システム\visualstudio\PowerPointAddIn1\PowerPointAddIn1\obj\x64\Debug\PowerPointAddIn1.Properties.Resources.resources
+C:\Users\Nicholas Lim\Desktop\Workspace\2021_nicholas\システム\visualstudio\PowerPointAddIn1\PowerPointAddIn1\obj\x64\Debug\PowerPointAddIn1.Ribbon1.resources
+C:\Users\Nicholas Lim\Desktop\Workspace\2021_nicholas\システム\visualstudio\PowerPointAddIn1\PowerPointAddIn1\obj\x64\Debug\PowerPointAddIn1.UserControl1.resources
+C:\Users\Nicholas Lim\Desktop\Workspace\2021_nicholas\システム\visualstudio\PowerPointAddIn1\PowerPointAddIn1\obj\x64\Debug\PowerPointAddIn1.UserControl2.resources
+C:\Users\Nicholas Lim\Desktop\Workspace\2021_nicholas\システム\visualstudio\PowerPointAddIn1\PowerPointAddIn1\obj\x64\Debug\PowerPointAddIn1.csproj.GenerateResource.cache
+C:\Users\Nicholas Lim\Desktop\Workspace\2021_nicholas\システム\visualstudio\PowerPointAddIn1\PowerPointAddIn1\obj\x64\Debug\PowerPointAddIn1.csproj.CoreCompileInputs.cache
+C:\Users\Nicholas Lim\Desktop\Workspace\2021_nicholas\システム\visualstudio\PowerPointAddIn1\PowerPointAddIn1\obj\x64\Debug\PowerPointAddIn1.csproj.CopyComplete
+C:\Users\Nicholas Lim\Desktop\Workspace\2021_nicholas\システム\visualstudio\PowerPointAddIn1\PowerPointAddIn1\obj\x64\Debug\PowerPointAddIn1.dll
+C:\Users\Nicholas Lim\Desktop\Workspace\2021_nicholas\システム\visualstudio\PowerPointAddIn1\PowerPointAddIn1\obj\x64\Debug\PowerPointAddIn1.pdb
+E:\VisualStudio\2021_nicholas\システム\visualstudio\PowerPointAddIn1\PowerPointAddIn1\bin\Debug\Microsoft.CognitiveServices.Speech.core.dll
+E:\VisualStudio\2021_nicholas\システム\visualstudio\PowerPointAddIn1\PowerPointAddIn1\bin\Debug\Microsoft.CognitiveServices.Speech.extension.audio.sys.dll
+E:\VisualStudio\2021_nicholas\システム\visualstudio\PowerPointAddIn1\PowerPointAddIn1\bin\Debug\Microsoft.CognitiveServices.Speech.extension.kws.dll
+E:\VisualStudio\2021_nicholas\システム\visualstudio\PowerPointAddIn1\PowerPointAddIn1\bin\Debug\Microsoft.CognitiveServices.Speech.extension.lu.dll
+E:\VisualStudio\2021_nicholas\システム\visualstudio\PowerPointAddIn1\PowerPointAddIn1\bin\Debug\Microsoft.CognitiveServices.Speech.extension.codec.dll
+E:\VisualStudio\2021_nicholas\システム\visualstudio\PowerPointAddIn1\PowerPointAddIn1\bin\Debug\database_addin.mdf
+E:\VisualStudio\2021_nicholas\システム\visualstudio\PowerPointAddIn1\PowerPointAddIn1\bin\Debug\database_addin_log.ldf
+E:\VisualStudio\2021_nicholas\システム\visualstudio\PowerPointAddIn1\PowerPointAddIn1\bin\Debug\Accord.dll.config
+E:\VisualStudio\2021_nicholas\システム\visualstudio\PowerPointAddIn1\PowerPointAddIn1\bin\Debug\PowerPointAddIn1.dll.config
+E:\VisualStudio\2021_nicholas\システム\visualstudio\PowerPointAddIn1\PowerPointAddIn1\bin\Debug\PowerPointAddIn1.dll
+E:\VisualStudio\2021_nicholas\システム\visualstudio\PowerPointAddIn1\PowerPointAddIn1\bin\Debug\PowerPointAddIn1.pdb
+E:\VisualStudio\2021_nicholas\システム\visualstudio\PowerPointAddIn1\PowerPointAddIn1\bin\Debug\PowerPointAddIn1.dll.manifest
+E:\VisualStudio\2021_nicholas\システム\visualstudio\PowerPointAddIn1\PowerPointAddIn1\bin\Debug\PowerPointAddIn1.vsto
+E:\VisualStudio\2021_nicholas\システム\visualstudio\PowerPointAddIn1\PowerPointAddIn1\bin\Debug\Accord.dll
+E:\VisualStudio\2021_nicholas\システム\visualstudio\PowerPointAddIn1\PowerPointAddIn1\bin\Debug\Accord.Math.Core.dll
+E:\VisualStudio\2021_nicholas\システム\visualstudio\PowerPointAddIn1\PowerPointAddIn1\bin\Debug\Accord.Math.dll
+E:\VisualStudio\2021_nicholas\システム\visualstudio\PowerPointAddIn1\PowerPointAddIn1\bin\Debug\LibNMeCab.dll
+E:\VisualStudio\2021_nicholas\システム\visualstudio\PowerPointAddIn1\PowerPointAddIn1\bin\Debug\Microsoft.CognitiveServices.Speech.csharp.dll
+E:\VisualStudio\2021_nicholas\システム\visualstudio\PowerPointAddIn1\PowerPointAddIn1\bin\Debug\Microsoft.Office.Tools.Common.dll
+E:\VisualStudio\2021_nicholas\システム\visualstudio\PowerPointAddIn1\PowerPointAddIn1\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+E:\VisualStudio\2021_nicholas\システム\visualstudio\PowerPointAddIn1\PowerPointAddIn1\bin\Debug\Microsoft.Office.Tools.dll
+E:\VisualStudio\2021_nicholas\システム\visualstudio\PowerPointAddIn1\PowerPointAddIn1\bin\Debug\Microsoft.Office.Tools.v4.0.Framework.dll
+E:\VisualStudio\2021_nicholas\システム\visualstudio\PowerPointAddIn1\PowerPointAddIn1\bin\Debug\Microsoft.VisualStudio.Tools.Applications.Runtime.dll
+E:\VisualStudio\2021_nicholas\システム\visualstudio\PowerPointAddIn1\PowerPointAddIn1\bin\Debug\NAudio.dll
+E:\VisualStudio\2021_nicholas\システム\visualstudio\PowerPointAddIn1\PowerPointAddIn1\bin\Debug\System.ValueTuple.dll
+E:\VisualStudio\2021_nicholas\システム\visualstudio\PowerPointAddIn1\PowerPointAddIn1\bin\Debug\Accord.xml
+E:\VisualStudio\2021_nicholas\システム\visualstudio\PowerPointAddIn1\PowerPointAddIn1\bin\Debug\Accord.Math.xml
+E:\VisualStudio\2021_nicholas\システム\visualstudio\PowerPointAddIn1\PowerPointAddIn1\bin\Debug\Accord.Math.Core.xml
+E:\VisualStudio\2021_nicholas\システム\visualstudio\PowerPointAddIn1\PowerPointAddIn1\bin\Debug\DocumentFormat.OpenXml.xml
+E:\VisualStudio\2021_nicholas\システム\visualstudio\PowerPointAddIn1\PowerPointAddIn1\bin\Debug\Microsoft.CognitiveServices.Speech.csharp.xml
+E:\VisualStudio\2021_nicholas\システム\visualstudio\PowerPointAddIn1\PowerPointAddIn1\bin\Debug\NAudio.xml
+E:\VisualStudio\2021_nicholas\システム\visualstudio\PowerPointAddIn1\PowerPointAddIn1\bin\Debug\System.ValueTuple.xml
+E:\VisualStudio\2021_nicholas\システム\visualstudio\PowerPointAddIn1\PowerPointAddIn1\obj\x64\Debug\PowerPointAddIn1.csprojAssemblyReference.cache
+E:\VisualStudio\2021_nicholas\システム\visualstudio\PowerPointAddIn1\PowerPointAddIn1\obj\x64\Debug\PowerPointAddIn1.csproj.ResolveComReference.cache
+E:\VisualStudio\2021_nicholas\システム\visualstudio\PowerPointAddIn1\PowerPointAddIn1\obj\x64\Debug\PowerPointAddIn1.Form1.resources
+E:\VisualStudio\2021_nicholas\システム\visualstudio\PowerPointAddIn1\PowerPointAddIn1\obj\x64\Debug\PowerPointAddIn1.Properties.Resources.resources
+E:\VisualStudio\2021_nicholas\システム\visualstudio\PowerPointAddIn1\PowerPointAddIn1\obj\x64\Debug\PowerPointAddIn1.Ribbon1.resources
+E:\VisualStudio\2021_nicholas\システム\visualstudio\PowerPointAddIn1\PowerPointAddIn1\obj\x64\Debug\PowerPointAddIn1.UserControl1.resources
+E:\VisualStudio\2021_nicholas\システム\visualstudio\PowerPointAddIn1\PowerPointAddIn1\obj\x64\Debug\PowerPointAddIn1.UserControl2.resources
+E:\VisualStudio\2021_nicholas\システム\visualstudio\PowerPointAddIn1\PowerPointAddIn1\obj\x64\Debug\PowerPointAddIn1.csproj.GenerateResource.cache
+E:\VisualStudio\2021_nicholas\システム\visualstudio\PowerPointAddIn1\PowerPointAddIn1\obj\x64\Debug\PowerPointAddIn1.csproj.CoreCompileInputs.cache
+E:\VisualStudio\2021_nicholas\システム\visualstudio\PowerPointAddIn1\PowerPointAddIn1\obj\x64\Debug\PowerPointAddIn1.csproj.CopyComplete
+E:\VisualStudio\2021_nicholas\システム\visualstudio\PowerPointAddIn1\PowerPointAddIn1\obj\x64\Debug\PowerPointAddIn1.dll
+E:\VisualStudio\2021_nicholas\システム\visualstudio\PowerPointAddIn1\PowerPointAddIn1\obj\x64\Debug\PowerPointAddIn1.pdb

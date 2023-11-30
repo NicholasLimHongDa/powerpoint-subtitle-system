@@ -1,0 +1,127 @@
+E:\Shigehisa\visualstudio\PowerPointAddIn1\PowerPointAddIn1\bin\Debug\PowerPointAddIn1.dll
+E:\Shigehisa\visualstudio\PowerPointAddIn1\PowerPointAddIn1\bin\Debug\PowerPointAddIn1.pdb
+E:\Shigehisa\visualstudio\PowerPointAddIn1\PowerPointAddIn1\bin\Debug\PowerPointAddIn1.dll.manifest
+E:\Shigehisa\visualstudio\PowerPointAddIn1\PowerPointAddIn1\bin\Debug\PowerPointAddIn1.vsto
+E:\Shigehisa\visualstudio\PowerPointAddIn1\PowerPointAddIn1\bin\Debug\Microsoft.Office.Tools.Common.dll
+E:\Shigehisa\visualstudio\PowerPointAddIn1\PowerPointAddIn1\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+E:\Shigehisa\visualstudio\PowerPointAddIn1\PowerPointAddIn1\bin\Debug\Microsoft.Office.Tools.dll
+E:\Shigehisa\visualstudio\PowerPointAddIn1\PowerPointAddIn1\bin\Debug\Microsoft.Office.Tools.v4.0.Framework.dll
+E:\Shigehisa\visualstudio\PowerPointAddIn1\PowerPointAddIn1\bin\Debug\Microsoft.VisualStudio.Tools.Applications.Runtime.dll
+E:\Shigehisa\visualstudio\PowerPointAddIn1\PowerPointAddIn1\obj\Debug\PowerPointAddIn1.csprojResolveAssemblyReference.cache
+E:\Shigehisa\visualstudio\PowerPointAddIn1\PowerPointAddIn1\obj\Debug\PowerPointAddIn1.Properties.Resources.resources
+E:\Shigehisa\visualstudio\PowerPointAddIn1\PowerPointAddIn1\obj\Debug\PowerPointAddIn1.csproj.GenerateResource.Cache
+E:\Shigehisa\visualstudio\PowerPointAddIn1\PowerPointAddIn1\obj\Debug\PowerPointAddIn1.dll
+E:\Shigehisa\visualstudio\PowerPointAddIn1\PowerPointAddIn1\obj\Debug\PowerPointAddIn1.pdb
+E:\sunohara\visualstudio\PowerPointAddIn1\PowerPointAddIn1\bin\Debug\database_addin.mdf
+E:\sunohara\visualstudio\PowerPointAddIn1\PowerPointAddIn1\bin\Debug\database_addin_log.ldf
+E:\sunohara\visualstudio\PowerPointAddIn1\PowerPointAddIn1\bin\Debug\PowerPointAddIn1.dll.config
+E:\sunohara\visualstudio\PowerPointAddIn1\PowerPointAddIn1\bin\Debug\PowerPointAddIn1.dll
+E:\sunohara\visualstudio\PowerPointAddIn1\PowerPointAddIn1\bin\Debug\PowerPointAddIn1.pdb
+E:\sunohara\visualstudio\PowerPointAddIn1\PowerPointAddIn1\bin\Debug\PowerPointAddIn1.dll.manifest
+E:\sunohara\visualstudio\PowerPointAddIn1\PowerPointAddIn1\bin\Debug\PowerPointAddIn1.vsto
+E:\sunohara\visualstudio\PowerPointAddIn1\PowerPointAddIn1\bin\Debug\Microsoft.Office.Tools.Common.dll
+E:\sunohara\visualstudio\PowerPointAddIn1\PowerPointAddIn1\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+E:\sunohara\visualstudio\PowerPointAddIn1\PowerPointAddIn1\bin\Debug\Microsoft.Office.Tools.dll
+E:\sunohara\visualstudio\PowerPointAddIn1\PowerPointAddIn1\bin\Debug\Microsoft.Office.Tools.v4.0.Framework.dll
+E:\sunohara\visualstudio\PowerPointAddIn1\PowerPointAddIn1\bin\Debug\Microsoft.VisualStudio.Tools.Applications.Runtime.dll
+E:\sunohara\visualstudio\PowerPointAddIn1\PowerPointAddIn1\obj\Debug\PowerPointAddIn1.Properties.Resources.resources
+E:\sunohara\visualstudio\PowerPointAddIn1\PowerPointAddIn1\obj\Debug\PowerPointAddIn1.csproj.GenerateResource.Cache
+E:\sunohara\visualstudio\PowerPointAddIn1\PowerPointAddIn1\obj\Debug\PowerPointAddIn1.dll
+E:\sunohara\visualstudio\PowerPointAddIn1\PowerPointAddIn1\obj\Debug\PowerPointAddIn1.pdb
+E:\sunohara\visualstudio\PowerPointAddIn1\PowerPointAddIn1\obj\Debug\PowerPointAddIn1.csprojResolveAssemblyReference.cache
+E:\sunohara\visualstudio\PowerPointAddIn1\PowerPointAddIn1\bin\Debug\LibNMeCab.dll
+D:\school\study\visualstudio\PowerPointAddIn1\PowerPointAddIn1\bin\Debug\database_addin.mdf
+D:\school\study\visualstudio\PowerPointAddIn1\PowerPointAddIn1\bin\Debug\database_addin_log.ldf
+D:\school\study\visualstudio\PowerPointAddIn1\PowerPointAddIn1\bin\Debug\PowerPointAddIn1.dll.config
+D:\school\study\visualstudio\PowerPointAddIn1\PowerPointAddIn1\bin\Debug\PowerPointAddIn1.dll
+D:\school\study\visualstudio\PowerPointAddIn1\PowerPointAddIn1\bin\Debug\PowerPointAddIn1.pdb
+D:\school\study\visualstudio\PowerPointAddIn1\PowerPointAddIn1\bin\Debug\PowerPointAddIn1.dll.manifest
+D:\school\study\visualstudio\PowerPointAddIn1\PowerPointAddIn1\bin\Debug\PowerPointAddIn1.vsto
+D:\school\study\visualstudio\PowerPointAddIn1\PowerPointAddIn1\bin\Debug\LibNMeCab.dll
+D:\school\study\visualstudio\PowerPointAddIn1\PowerPointAddIn1\bin\Debug\Microsoft.Office.Tools.Common.dll
+D:\school\study\visualstudio\PowerPointAddIn1\PowerPointAddIn1\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+D:\school\study\visualstudio\PowerPointAddIn1\PowerPointAddIn1\bin\Debug\Microsoft.Office.Tools.dll
+D:\school\study\visualstudio\PowerPointAddIn1\PowerPointAddIn1\bin\Debug\Microsoft.Office.Tools.v4.0.Framework.dll
+D:\school\study\visualstudio\PowerPointAddIn1\PowerPointAddIn1\bin\Debug\Microsoft.VisualStudio.Tools.Applications.Runtime.dll
+D:\school\study\visualstudio\PowerPointAddIn1\PowerPointAddIn1\obj\Debug\PowerPointAddIn1.csprojAssemblyReference.cache
+D:\school\study\visualstudio\PowerPointAddIn1\PowerPointAddIn1\obj\Debug\PowerPointAddIn1.Properties.Resources.resources
+D:\school\study\visualstudio\PowerPointAddIn1\PowerPointAddIn1\obj\Debug\PowerPointAddIn1.csproj.GenerateResource.cache
+D:\school\study\visualstudio\PowerPointAddIn1\PowerPointAddIn1\obj\Debug\PowerPointAddIn1.csproj.CopyComplete
+D:\school\study\visualstudio\PowerPointAddIn1\PowerPointAddIn1\obj\Debug\PowerPointAddIn1.dll
+D:\school\study\visualstudio\PowerPointAddIn1\PowerPointAddIn1\obj\Debug\PowerPointAddIn1.pdb
+E:\kobayashi_2020\research\システム\visualstudio\PowerPointAddIn1\PowerPointAddIn1\bin\Debug\database_addin.mdf
+E:\kobayashi_2020\research\システム\visualstudio\PowerPointAddIn1\PowerPointAddIn1\bin\Debug\database_addin_log.ldf
+E:\kobayashi_2020\research\システム\visualstudio\PowerPointAddIn1\PowerPointAddIn1\bin\Debug\PowerPointAddIn1.dll.config
+E:\kobayashi_2020\research\システム\visualstudio\PowerPointAddIn1\PowerPointAddIn1\bin\Debug\PowerPointAddIn1.dll
+E:\kobayashi_2020\research\システム\visualstudio\PowerPointAddIn1\PowerPointAddIn1\bin\Debug\PowerPointAddIn1.pdb
+E:\kobayashi_2020\research\システム\visualstudio\PowerPointAddIn1\PowerPointAddIn1\bin\Debug\PowerPointAddIn1.dll.manifest
+E:\kobayashi_2020\research\システム\visualstudio\PowerPointAddIn1\PowerPointAddIn1\bin\Debug\PowerPointAddIn1.vsto
+E:\kobayashi_2020\research\システム\visualstudio\PowerPointAddIn1\PowerPointAddIn1\bin\Debug\LibNMeCab.dll
+E:\kobayashi_2020\research\システム\visualstudio\PowerPointAddIn1\PowerPointAddIn1\bin\Debug\Microsoft.Office.Tools.Common.dll
+E:\kobayashi_2020\research\システム\visualstudio\PowerPointAddIn1\PowerPointAddIn1\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+E:\kobayashi_2020\research\システム\visualstudio\PowerPointAddIn1\PowerPointAddIn1\bin\Debug\Microsoft.Office.Tools.dll
+E:\kobayashi_2020\research\システム\visualstudio\PowerPointAddIn1\PowerPointAddIn1\bin\Debug\Microsoft.Office.Tools.v4.0.Framework.dll
+E:\kobayashi_2020\research\システム\visualstudio\PowerPointAddIn1\PowerPointAddIn1\bin\Debug\Microsoft.VisualStudio.Tools.Applications.Runtime.dll
+E:\kobayashi_2020\research\システム\visualstudio\PowerPointAddIn1\PowerPointAddIn1\obj\Debug\PowerPointAddIn1.csprojAssemblyReference.cache
+E:\kobayashi_2020\research\システム\visualstudio\PowerPointAddIn1\PowerPointAddIn1\obj\Debug\PowerPointAddIn1.Properties.Resources.resources
+E:\kobayashi_2020\research\システム\visualstudio\PowerPointAddIn1\PowerPointAddIn1\obj\Debug\PowerPointAddIn1.csproj.GenerateResource.cache
+E:\kobayashi_2020\research\システム\visualstudio\PowerPointAddIn1\PowerPointAddIn1\obj\Debug\PowerPointAddIn1.csproj.CoreCompileInputs.cache
+E:\kobayashi_2020\research\システム\visualstudio\PowerPointAddIn1\PowerPointAddIn1\obj\Debug\PowerPointAddIn1.csproj.CopyComplete
+E:\kobayashi_2020\research\システム\visualstudio\PowerPointAddIn1\PowerPointAddIn1\obj\Debug\PowerPointAddIn1.dll
+E:\kobayashi_2020\research\システム\visualstudio\PowerPointAddIn1\PowerPointAddIn1\obj\Debug\PowerPointAddIn1.pdb
+E:\kobayashi_2020\research\システム\visualstudio\PowerPointAddIn1\PowerPointAddIn1\obj\Debug\PowerPointAddIn1.Ribbon1.resources
+E:\kobayashi_2020\research\システム\visualstudio\PowerPointAddIn1\PowerPointAddIn1\obj\Debug\PowerPointAddIn1.UserControl1.resources
+E:\kobayashi_2020\research\システム\visualstudio\PowerPointAddIn1\PowerPointAddIn1\obj\Debug\PowerPointAddIn1.UserControl2.resources
+E:\kobayashi_2020\research\システム\visualstudio\PowerPointAddIn1\PowerPointAddIn1\obj\Debug\PowerPointAddIn1.csproj.ResolveComReference.cache
+E:\kobayashi_2020\research\システム\visualstudio\PowerPointAddIn1\PowerPointAddIn1\obj\Debug\PowerPointAddIn1.Form1.resources
+E:\kobayashi_2020\research\システム\visualstudio\PowerPointAddIn1\PowerPointAddIn1\bin\Debug\DocumentFormat.OpenXml.dll
+E:\kobayashi_2020\research\システム\visualstudio\PowerPointAddIn1\PowerPointAddIn1\bin\Debug\DocumentFormat.OpenXml.xml
+E:\kobayashi_2020\research\システム\visualstudio\PowerPointAddIn1\PowerPointAddIn1\bin\Debug\NAudio.dll
+E:\kobayashi_2020\research\システム\visualstudio\PowerPointAddIn1\PowerPointAddIn1\bin\Debug\NAudio.xml
+E:\kobayashi_2020\research\システム\visualstudio\PowerPointAddIn1\PowerPointAddIn1\bin\Debug\Accord.dll.config
+E:\kobayashi_2020\research\システム\visualstudio\PowerPointAddIn1\PowerPointAddIn1\bin\Debug\Accord.dll
+E:\kobayashi_2020\research\システム\visualstudio\PowerPointAddIn1\PowerPointAddIn1\bin\Debug\Accord.Math.Core.dll
+E:\kobayashi_2020\research\システム\visualstudio\PowerPointAddIn1\PowerPointAddIn1\bin\Debug\Accord.Math.dll
+E:\kobayashi_2020\research\システム\visualstudio\PowerPointAddIn1\PowerPointAddIn1\bin\Debug\System.ValueTuple.dll
+E:\kobayashi_2020\research\システム\visualstudio\PowerPointAddIn1\PowerPointAddIn1\bin\Debug\Accord.xml
+E:\kobayashi_2020\research\システム\visualstudio\PowerPointAddIn1\PowerPointAddIn1\bin\Debug\Accord.Math.xml
+E:\kobayashi_2020\research\システム\visualstudio\PowerPointAddIn1\PowerPointAddIn1\bin\Debug\Accord.Math.Core.xml
+E:\kobayashi_2020\research\システム\visualstudio\PowerPointAddIn1\PowerPointAddIn1\bin\Debug\System.ValueTuple.xml
+C:\Users\Nicholas Lim\Desktop\2020_kobayashi\システム\visualstudio\PowerPointAddIn1\PowerPointAddIn1\bin\Debug\database_addin.mdf
+C:\Users\Nicholas Lim\Desktop\2020_kobayashi\システム\visualstudio\PowerPointAddIn1\PowerPointAddIn1\bin\Debug\database_addin_log.ldf
+C:\Users\Nicholas Lim\Desktop\2020_kobayashi\システム\visualstudio\PowerPointAddIn1\PowerPointAddIn1\bin\Debug\Accord.dll.config
+C:\Users\Nicholas Lim\Desktop\2020_kobayashi\システム\visualstudio\PowerPointAddIn1\PowerPointAddIn1\bin\Debug\PowerPointAddIn1.dll.config
+C:\Users\Nicholas Lim\Desktop\2020_kobayashi\システム\visualstudio\PowerPointAddIn1\PowerPointAddIn1\bin\Debug\PowerPointAddIn1.dll
+C:\Users\Nicholas Lim\Desktop\2020_kobayashi\システム\visualstudio\PowerPointAddIn1\PowerPointAddIn1\bin\Debug\PowerPointAddIn1.pdb
+C:\Users\Nicholas Lim\Desktop\2020_kobayashi\システム\visualstudio\PowerPointAddIn1\PowerPointAddIn1\bin\Debug\PowerPointAddIn1.dll.manifest
+C:\Users\Nicholas Lim\Desktop\2020_kobayashi\システム\visualstudio\PowerPointAddIn1\PowerPointAddIn1\bin\Debug\PowerPointAddIn1.vsto
+C:\Users\Nicholas Lim\Desktop\2020_kobayashi\システム\visualstudio\PowerPointAddIn1\PowerPointAddIn1\bin\Debug\Accord.dll
+C:\Users\Nicholas Lim\Desktop\2020_kobayashi\システム\visualstudio\PowerPointAddIn1\PowerPointAddIn1\bin\Debug\Accord.Math.Core.dll
+C:\Users\Nicholas Lim\Desktop\2020_kobayashi\システム\visualstudio\PowerPointAddIn1\PowerPointAddIn1\bin\Debug\Accord.Math.dll
+C:\Users\Nicholas Lim\Desktop\2020_kobayashi\システム\visualstudio\PowerPointAddIn1\PowerPointAddIn1\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\Nicholas Lim\Desktop\2020_kobayashi\システム\visualstudio\PowerPointAddIn1\PowerPointAddIn1\bin\Debug\LibNMeCab.dll
+C:\Users\Nicholas Lim\Desktop\2020_kobayashi\システム\visualstudio\PowerPointAddIn1\PowerPointAddIn1\bin\Debug\Microsoft.Office.Tools.Common.dll
+C:\Users\Nicholas Lim\Desktop\2020_kobayashi\システム\visualstudio\PowerPointAddIn1\PowerPointAddIn1\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+C:\Users\Nicholas Lim\Desktop\2020_kobayashi\システム\visualstudio\PowerPointAddIn1\PowerPointAddIn1\bin\Debug\Microsoft.Office.Tools.dll
+C:\Users\Nicholas Lim\Desktop\2020_kobayashi\システム\visualstudio\PowerPointAddIn1\PowerPointAddIn1\bin\Debug\Microsoft.Office.Tools.v4.0.Framework.dll
+C:\Users\Nicholas Lim\Desktop\2020_kobayashi\システム\visualstudio\PowerPointAddIn1\PowerPointAddIn1\bin\Debug\Microsoft.VisualStudio.Tools.Applications.Runtime.dll
+C:\Users\Nicholas Lim\Desktop\2020_kobayashi\システム\visualstudio\PowerPointAddIn1\PowerPointAddIn1\bin\Debug\NAudio.dll
+C:\Users\Nicholas Lim\Desktop\2020_kobayashi\システム\visualstudio\PowerPointAddIn1\PowerPointAddIn1\bin\Debug\System.ValueTuple.dll
+C:\Users\Nicholas Lim\Desktop\2020_kobayashi\システム\visualstudio\PowerPointAddIn1\PowerPointAddIn1\bin\Debug\Accord.xml
+C:\Users\Nicholas Lim\Desktop\2020_kobayashi\システム\visualstudio\PowerPointAddIn1\PowerPointAddIn1\bin\Debug\Accord.Math.xml
+C:\Users\Nicholas Lim\Desktop\2020_kobayashi\システム\visualstudio\PowerPointAddIn1\PowerPointAddIn1\bin\Debug\Accord.Math.Core.xml
+C:\Users\Nicholas Lim\Desktop\2020_kobayashi\システム\visualstudio\PowerPointAddIn1\PowerPointAddIn1\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\Nicholas Lim\Desktop\2020_kobayashi\システム\visualstudio\PowerPointAddIn1\PowerPointAddIn1\bin\Debug\NAudio.xml
+C:\Users\Nicholas Lim\Desktop\2020_kobayashi\システム\visualstudio\PowerPointAddIn1\PowerPointAddIn1\bin\Debug\System.ValueTuple.xml
+C:\Users\Nicholas Lim\Desktop\2020_kobayashi\システム\visualstudio\PowerPointAddIn1\PowerPointAddIn1\obj\Debug\PowerPointAddIn1.csprojAssemblyReference.cache
+C:\Users\Nicholas Lim\Desktop\2020_kobayashi\システム\visualstudio\PowerPointAddIn1\PowerPointAddIn1\obj\Debug\PowerPointAddIn1.csproj.ResolveComReference.cache
+C:\Users\Nicholas Lim\Desktop\2020_kobayashi\システム\visualstudio\PowerPointAddIn1\PowerPointAddIn1\obj\Debug\PowerPointAddIn1.Form1.resources
+C:\Users\Nicholas Lim\Desktop\2020_kobayashi\システム\visualstudio\PowerPointAddIn1\PowerPointAddIn1\obj\Debug\PowerPointAddIn1.Properties.Resources.resources
+C:\Users\Nicholas Lim\Desktop\2020_kobayashi\システム\visualstudio\PowerPointAddIn1\PowerPointAddIn1\obj\Debug\PowerPointAddIn1.Ribbon1.resources
+C:\Users\Nicholas Lim\Desktop\2020_kobayashi\システム\visualstudio\PowerPointAddIn1\PowerPointAddIn1\obj\Debug\PowerPointAddIn1.UserControl1.resources
+C:\Users\Nicholas Lim\Desktop\2020_kobayashi\システム\visualstudio\PowerPointAddIn1\PowerPointAddIn1\obj\Debug\PowerPointAddIn1.UserControl2.resources
+C:\Users\Nicholas Lim\Desktop\2020_kobayashi\システム\visualstudio\PowerPointAddIn1\PowerPointAddIn1\obj\Debug\PowerPointAddIn1.csproj.GenerateResource.cache
+C:\Users\Nicholas Lim\Desktop\2020_kobayashi\システム\visualstudio\PowerPointAddIn1\PowerPointAddIn1\obj\Debug\PowerPointAddIn1.csproj.CoreCompileInputs.cache
+C:\Users\Nicholas Lim\Desktop\2020_kobayashi\システム\visualstudio\PowerPointAddIn1\PowerPointAddIn1\obj\Debug\PowerPointAddIn1.csproj.CopyComplete
+C:\Users\Nicholas Lim\Desktop\2020_kobayashi\システム\visualstudio\PowerPointAddIn1\PowerPointAddIn1\obj\Debug\PowerPointAddIn1.dll
+C:\Users\Nicholas Lim\Desktop\2020_kobayashi\システム\visualstudio\PowerPointAddIn1\PowerPointAddIn1\obj\Debug\PowerPointAddIn1.pdb

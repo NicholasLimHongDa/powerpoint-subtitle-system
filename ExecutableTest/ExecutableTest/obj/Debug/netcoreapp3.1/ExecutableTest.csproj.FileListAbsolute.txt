@@ -1,0 +1,110 @@
+C:\Users\Nicholas Lim\source\repos\ExecutableTest\ExecutableTest\bin\Debug\netcoreapp3.1\ExecutableTest.exe
+C:\Users\Nicholas Lim\source\repos\ExecutableTest\ExecutableTest\bin\Debug\netcoreapp3.1\ExecutableTest.deps.json
+C:\Users\Nicholas Lim\source\repos\ExecutableTest\ExecutableTest\bin\Debug\netcoreapp3.1\ExecutableTest.runtimeconfig.json
+C:\Users\Nicholas Lim\source\repos\ExecutableTest\ExecutableTest\bin\Debug\netcoreapp3.1\ExecutableTest.runtimeconfig.dev.json
+C:\Users\Nicholas Lim\source\repos\ExecutableTest\ExecutableTest\bin\Debug\netcoreapp3.1\ExecutableTest.dll
+C:\Users\Nicholas Lim\source\repos\ExecutableTest\ExecutableTest\bin\Debug\netcoreapp3.1\ExecutableTest.pdb
+C:\Users\Nicholas Lim\source\repos\ExecutableTest\ExecutableTest\obj\Debug\netcoreapp3.1\ExecutableTest.csprojAssemblyReference.cache
+C:\Users\Nicholas Lim\source\repos\ExecutableTest\ExecutableTest\obj\Debug\netcoreapp3.1\ExecutableTest.AssemblyInfoInputs.cache
+C:\Users\Nicholas Lim\source\repos\ExecutableTest\ExecutableTest\obj\Debug\netcoreapp3.1\ExecutableTest.AssemblyInfo.cs
+C:\Users\Nicholas Lim\source\repos\ExecutableTest\ExecutableTest\obj\Debug\netcoreapp3.1\ExecutableTest.csproj.CoreCompileInputs.cache
+C:\Users\Nicholas Lim\source\repos\ExecutableTest\ExecutableTest\obj\Debug\netcoreapp3.1\ExecutableTest.dll
+C:\Users\Nicholas Lim\source\repos\ExecutableTest\ExecutableTest\obj\Debug\netcoreapp3.1\ExecutableTest.pdb
+C:\Users\Nicholas Lim\source\repos\ExecutableTest\ExecutableTest\obj\Debug\netcoreapp3.1\ExecutableTest.genruntimeconfig.cache
+C:\Users\Nicholas Lim\source\repos\ExecutableTest\ExecutableTest\bin\Debug\netcoreapp3.1\Microsoft.CognitiveServices.Speech.csharp.dll
+C:\Users\Nicholas Lim\source\repos\ExecutableTest\ExecutableTest\bin\Debug\netcoreapp3.1\runtimes\linux-arm\lib\netstandard2.0\Microsoft.CognitiveServices.Speech.csharp.dll
+C:\Users\Nicholas Lim\source\repos\ExecutableTest\ExecutableTest\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libMicrosoft.CognitiveServices.Speech.core.so
+C:\Users\Nicholas Lim\source\repos\ExecutableTest\ExecutableTest\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libMicrosoft.CognitiveServices.Speech.extension.audio.sys.so
+C:\Users\Nicholas Lim\source\repos\ExecutableTest\ExecutableTest\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libMicrosoft.CognitiveServices.Speech.extension.codec.so
+C:\Users\Nicholas Lim\source\repos\ExecutableTest\ExecutableTest\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libMicrosoft.CognitiveServices.Speech.extension.kws.so
+C:\Users\Nicholas Lim\source\repos\ExecutableTest\ExecutableTest\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libMicrosoft.CognitiveServices.Speech.extension.lu.so
+C:\Users\Nicholas Lim\source\repos\ExecutableTest\ExecutableTest\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\lib\netstandard2.0\Microsoft.CognitiveServices.Speech.csharp.dll
+C:\Users\Nicholas Lim\source\repos\ExecutableTest\ExecutableTest\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libMicrosoft.CognitiveServices.Speech.core.so
+C:\Users\Nicholas Lim\source\repos\ExecutableTest\ExecutableTest\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libMicrosoft.CognitiveServices.Speech.extension.audio.sys.so
+C:\Users\Nicholas Lim\source\repos\ExecutableTest\ExecutableTest\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libMicrosoft.CognitiveServices.Speech.extension.codec.so
+C:\Users\Nicholas Lim\source\repos\ExecutableTest\ExecutableTest\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libMicrosoft.CognitiveServices.Speech.extension.kws.so
+C:\Users\Nicholas Lim\source\repos\ExecutableTest\ExecutableTest\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libMicrosoft.CognitiveServices.Speech.extension.lu.so
+C:\Users\Nicholas Lim\source\repos\ExecutableTest\ExecutableTest\bin\Debug\netcoreapp3.1\runtimes\linux-x64\lib\netstandard2.0\Microsoft.CognitiveServices.Speech.csharp.dll
+C:\Users\Nicholas Lim\source\repos\ExecutableTest\ExecutableTest\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libMicrosoft.CognitiveServices.Speech.core.so
+C:\Users\Nicholas Lim\source\repos\ExecutableTest\ExecutableTest\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libMicrosoft.CognitiveServices.Speech.extension.audio.sys.so
+C:\Users\Nicholas Lim\source\repos\ExecutableTest\ExecutableTest\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libMicrosoft.CognitiveServices.Speech.extension.codec.so
+C:\Users\Nicholas Lim\source\repos\ExecutableTest\ExecutableTest\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libMicrosoft.CognitiveServices.Speech.extension.kws.so
+C:\Users\Nicholas Lim\source\repos\ExecutableTest\ExecutableTest\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libMicrosoft.CognitiveServices.Speech.extension.lu.so
+C:\Users\Nicholas Lim\source\repos\ExecutableTest\ExecutableTest\bin\Debug\netcoreapp3.1\runtimes\osx-x64\lib\netstandard2.0\Microsoft.CognitiveServices.Speech.csharp.dll
+C:\Users\Nicholas Lim\source\repos\ExecutableTest\ExecutableTest\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libMicrosoft.CognitiveServices.Speech.core.dylib
+C:\Users\Nicholas Lim\source\repos\ExecutableTest\ExecutableTest\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.CognitiveServices.Speech.core.dll
+C:\Users\Nicholas Lim\source\repos\ExecutableTest\ExecutableTest\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.CognitiveServices.Speech.extension.audio.sys.dll
+C:\Users\Nicholas Lim\source\repos\ExecutableTest\ExecutableTest\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.CognitiveServices.Speech.extension.codec.dll
+C:\Users\Nicholas Lim\source\repos\ExecutableTest\ExecutableTest\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.CognitiveServices.Speech.extension.kws.dll
+C:\Users\Nicholas Lim\source\repos\ExecutableTest\ExecutableTest\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.CognitiveServices.Speech.extension.lu.dll
+C:\Users\Nicholas Lim\source\repos\ExecutableTest\ExecutableTest\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.CognitiveServices.Speech.extension.silk_codec.dll
+C:\Users\Nicholas Lim\source\repos\ExecutableTest\ExecutableTest\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.CognitiveServices.Speech.core.dll
+C:\Users\Nicholas Lim\source\repos\ExecutableTest\ExecutableTest\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.CognitiveServices.Speech.extension.audio.sys.dll
+C:\Users\Nicholas Lim\source\repos\ExecutableTest\ExecutableTest\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.CognitiveServices.Speech.extension.codec.dll
+C:\Users\Nicholas Lim\source\repos\ExecutableTest\ExecutableTest\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.CognitiveServices.Speech.extension.kws.dll
+C:\Users\Nicholas Lim\source\repos\ExecutableTest\ExecutableTest\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.CognitiveServices.Speech.extension.lu.dll
+C:\Users\Nicholas Lim\source\repos\ExecutableTest\ExecutableTest\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.CognitiveServices.Speech.extension.silk_codec.dll
+C:\Users\Nicholas Lim\source\repos\ExecutableTest\ExecutableTest\bin\Debug\netcoreapp3.1\runtimes\win10-arm\native\Microsoft.CognitiveServices.Speech.core.dll
+C:\Users\Nicholas Lim\source\repos\ExecutableTest\ExecutableTest\bin\Debug\netcoreapp3.1\runtimes\win10-arm\native\Microsoft.CognitiveServices.Speech.extension.audio.sys.dll
+C:\Users\Nicholas Lim\source\repos\ExecutableTest\ExecutableTest\bin\Debug\netcoreapp3.1\runtimes\win10-arm\native\Microsoft.CognitiveServices.Speech.extension.kws.dll
+C:\Users\Nicholas Lim\source\repos\ExecutableTest\ExecutableTest\bin\Debug\netcoreapp3.1\runtimes\win10-arm\native\Microsoft.CognitiveServices.Speech.extension.lu.dll
+C:\Users\Nicholas Lim\source\repos\ExecutableTest\ExecutableTest\bin\Debug\netcoreapp3.1\runtimes\win10-arm64\native\Microsoft.CognitiveServices.Speech.core.dll
+C:\Users\Nicholas Lim\source\repos\ExecutableTest\ExecutableTest\bin\Debug\netcoreapp3.1\runtimes\win10-arm64\native\Microsoft.CognitiveServices.Speech.extension.audio.sys.dll
+C:\Users\Nicholas Lim\source\repos\ExecutableTest\ExecutableTest\bin\Debug\netcoreapp3.1\runtimes\win10-arm64\native\Microsoft.CognitiveServices.Speech.extension.kws.dll
+C:\Users\Nicholas Lim\source\repos\ExecutableTest\ExecutableTest\bin\Debug\netcoreapp3.1\runtimes\win10-arm64\native\Microsoft.CognitiveServices.Speech.extension.lu.dll
+C:\Users\Nicholas Lim\source\repos\ExecutableTest\ExecutableTest\obj\Debug\netcoreapp3.1\ExecutableTest.csproj.CopyComplete
+E:\VisualStudio\ExecutableTest\ExecutableTest\bin\Debug\netcoreapp3.1\ExecutableTest.exe
+E:\VisualStudio\ExecutableTest\ExecutableTest\bin\Debug\netcoreapp3.1\ExecutableTest.deps.json
+E:\VisualStudio\ExecutableTest\ExecutableTest\bin\Debug\netcoreapp3.1\ExecutableTest.runtimeconfig.json
+E:\VisualStudio\ExecutableTest\ExecutableTest\bin\Debug\netcoreapp3.1\ExecutableTest.runtimeconfig.dev.json
+E:\VisualStudio\ExecutableTest\ExecutableTest\bin\Debug\netcoreapp3.1\ExecutableTest.dll
+E:\VisualStudio\ExecutableTest\ExecutableTest\bin\Debug\netcoreapp3.1\ExecutableTest.pdb
+E:\VisualStudio\ExecutableTest\ExecutableTest\bin\Debug\netcoreapp3.1\Microsoft.CognitiveServices.Speech.csharp.dll
+E:\VisualStudio\ExecutableTest\ExecutableTest\bin\Debug\netcoreapp3.1\runtimes\linux-arm\lib\netstandard2.0\Microsoft.CognitiveServices.Speech.csharp.dll
+E:\VisualStudio\ExecutableTest\ExecutableTest\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libMicrosoft.CognitiveServices.Speech.core.so
+E:\VisualStudio\ExecutableTest\ExecutableTest\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libMicrosoft.CognitiveServices.Speech.extension.audio.sys.so
+E:\VisualStudio\ExecutableTest\ExecutableTest\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libMicrosoft.CognitiveServices.Speech.extension.codec.so
+E:\VisualStudio\ExecutableTest\ExecutableTest\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libMicrosoft.CognitiveServices.Speech.extension.kws.so
+E:\VisualStudio\ExecutableTest\ExecutableTest\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libMicrosoft.CognitiveServices.Speech.extension.lu.so
+E:\VisualStudio\ExecutableTest\ExecutableTest\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\lib\netstandard2.0\Microsoft.CognitiveServices.Speech.csharp.dll
+E:\VisualStudio\ExecutableTest\ExecutableTest\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libMicrosoft.CognitiveServices.Speech.core.so
+E:\VisualStudio\ExecutableTest\ExecutableTest\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libMicrosoft.CognitiveServices.Speech.extension.audio.sys.so
+E:\VisualStudio\ExecutableTest\ExecutableTest\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libMicrosoft.CognitiveServices.Speech.extension.codec.so
+E:\VisualStudio\ExecutableTest\ExecutableTest\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libMicrosoft.CognitiveServices.Speech.extension.kws.so
+E:\VisualStudio\ExecutableTest\ExecutableTest\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libMicrosoft.CognitiveServices.Speech.extension.lu.so
+E:\VisualStudio\ExecutableTest\ExecutableTest\bin\Debug\netcoreapp3.1\runtimes\linux-x64\lib\netstandard2.0\Microsoft.CognitiveServices.Speech.csharp.dll
+E:\VisualStudio\ExecutableTest\ExecutableTest\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libMicrosoft.CognitiveServices.Speech.core.so
+E:\VisualStudio\ExecutableTest\ExecutableTest\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libMicrosoft.CognitiveServices.Speech.extension.audio.sys.so
+E:\VisualStudio\ExecutableTest\ExecutableTest\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libMicrosoft.CognitiveServices.Speech.extension.codec.so
+E:\VisualStudio\ExecutableTest\ExecutableTest\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libMicrosoft.CognitiveServices.Speech.extension.kws.so
+E:\VisualStudio\ExecutableTest\ExecutableTest\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libMicrosoft.CognitiveServices.Speech.extension.lu.so
+E:\VisualStudio\ExecutableTest\ExecutableTest\bin\Debug\netcoreapp3.1\runtimes\osx-x64\lib\netstandard2.0\Microsoft.CognitiveServices.Speech.csharp.dll
+E:\VisualStudio\ExecutableTest\ExecutableTest\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libMicrosoft.CognitiveServices.Speech.core.dylib
+E:\VisualStudio\ExecutableTest\ExecutableTest\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.CognitiveServices.Speech.core.dll
+E:\VisualStudio\ExecutableTest\ExecutableTest\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.CognitiveServices.Speech.extension.audio.sys.dll
+E:\VisualStudio\ExecutableTest\ExecutableTest\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.CognitiveServices.Speech.extension.codec.dll
+E:\VisualStudio\ExecutableTest\ExecutableTest\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.CognitiveServices.Speech.extension.kws.dll
+E:\VisualStudio\ExecutableTest\ExecutableTest\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.CognitiveServices.Speech.extension.lu.dll
+E:\VisualStudio\ExecutableTest\ExecutableTest\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.CognitiveServices.Speech.extension.silk_codec.dll
+E:\VisualStudio\ExecutableTest\ExecutableTest\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.CognitiveServices.Speech.core.dll
+E:\VisualStudio\ExecutableTest\ExecutableTest\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.CognitiveServices.Speech.extension.audio.sys.dll
+E:\VisualStudio\ExecutableTest\ExecutableTest\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.CognitiveServices.Speech.extension.codec.dll
+E:\VisualStudio\ExecutableTest\ExecutableTest\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.CognitiveServices.Speech.extension.kws.dll
+E:\VisualStudio\ExecutableTest\ExecutableTest\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.CognitiveServices.Speech.extension.lu.dll
+E:\VisualStudio\ExecutableTest\ExecutableTest\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.CognitiveServices.Speech.extension.silk_codec.dll
+E:\VisualStudio\ExecutableTest\ExecutableTest\bin\Debug\netcoreapp3.1\runtimes\win10-arm\native\Microsoft.CognitiveServices.Speech.core.dll
+E:\VisualStudio\ExecutableTest\ExecutableTest\bin\Debug\netcoreapp3.1\runtimes\win10-arm\native\Microsoft.CognitiveServices.Speech.extension.audio.sys.dll
+E:\VisualStudio\ExecutableTest\ExecutableTest\bin\Debug\netcoreapp3.1\runtimes\win10-arm\native\Microsoft.CognitiveServices.Speech.extension.kws.dll
+E:\VisualStudio\ExecutableTest\ExecutableTest\bin\Debug\netcoreapp3.1\runtimes\win10-arm\native\Microsoft.CognitiveServices.Speech.extension.lu.dll
+E:\VisualStudio\ExecutableTest\ExecutableTest\bin\Debug\netcoreapp3.1\runtimes\win10-arm64\native\Microsoft.CognitiveServices.Speech.core.dll
+E:\VisualStudio\ExecutableTest\ExecutableTest\bin\Debug\netcoreapp3.1\runtimes\win10-arm64\native\Microsoft.CognitiveServices.Speech.extension.audio.sys.dll
+E:\VisualStudio\ExecutableTest\ExecutableTest\bin\Debug\netcoreapp3.1\runtimes\win10-arm64\native\Microsoft.CognitiveServices.Speech.extension.kws.dll
+E:\VisualStudio\ExecutableTest\ExecutableTest\bin\Debug\netcoreapp3.1\runtimes\win10-arm64\native\Microsoft.CognitiveServices.Speech.extension.lu.dll
+E:\VisualStudio\ExecutableTest\ExecutableTest\obj\Debug\netcoreapp3.1\ExecutableTest.csprojAssemblyReference.cache
+E:\VisualStudio\ExecutableTest\ExecutableTest\obj\Debug\netcoreapp3.1\ExecutableTest.AssemblyInfoInputs.cache
+E:\VisualStudio\ExecutableTest\ExecutableTest\obj\Debug\netcoreapp3.1\ExecutableTest.AssemblyInfo.cs
+E:\VisualStudio\ExecutableTest\ExecutableTest\obj\Debug\netcoreapp3.1\ExecutableTest.csproj.CoreCompileInputs.cache
+E:\VisualStudio\ExecutableTest\ExecutableTest\obj\Debug\netcoreapp3.1\ExecutableTest.csproj.CopyComplete
+E:\VisualStudio\ExecutableTest\ExecutableTest\obj\Debug\netcoreapp3.1\ExecutableTest.dll
+E:\VisualStudio\ExecutableTest\ExecutableTest\obj\Debug\netcoreapp3.1\ExecutableTest.pdb
+E:\VisualStudio\ExecutableTest\ExecutableTest\obj\Debug\netcoreapp3.1\ExecutableTest.genruntimeconfig.cache
