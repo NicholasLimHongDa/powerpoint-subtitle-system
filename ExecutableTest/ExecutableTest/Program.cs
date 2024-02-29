@@ -285,8 +285,20 @@ namespace ExecutableTest
             Console.WriteLine("-------------------------------------------");
             Console.WriteLine("Process is over");
 
+        }
 
-            //Old version (16/12/2021)
+        async static Task Main(string[] args)
+        {
+            var speechConfig = SpeechConfig.FromSubscription("insert-sha-key-here", "japaneast");
+            await FromMic(speechConfig);
+            Console.WriteLine("Program has exited.");
+        }
+    }
+}
+
+
+
+            //Old version for reference(16/12/2021)
             /*
             //The first line starts from an asterisk and is separated by spaces, on the last space there is a value that can be used to relate to other 文節
             //Second line onwards starts with a word and then a tab, followed by phonetic information
@@ -458,13 +470,3 @@ namespace ExecutableTest
             Console.WriteLine("-------------------------------------------");
             Console.WriteLine("Process is over");
             */
-        }
-
-        async static Task Main(string[] args)
-        {
-            var speechConfig = SpeechConfig.FromSubscription("0f2d4b927d4e41cba77d0a1e4dc4f5ea", "japaneast");
-            await FromMic(speechConfig);
-            Console.WriteLine("Program has exited.");
-        }
-    }
-}

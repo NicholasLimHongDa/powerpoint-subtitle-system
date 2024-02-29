@@ -86,7 +86,7 @@ namespace PowerPointAddIn1
             processhide = false;
             if (subtitledisplay == true)
             {
-                var speechConfig = SpeechConfig.FromSubscription("0f2d4b927d4e41cba77d0a1e4dc4f5ea", "japaneast");
+                var speechConfig = SpeechConfig.FromSubscription("insert-sha-key-here", "japaneast");
                 await AzureAPI.FromMic(speechConfig);
             }
             Debug.WriteLine("Slideshow has begun");

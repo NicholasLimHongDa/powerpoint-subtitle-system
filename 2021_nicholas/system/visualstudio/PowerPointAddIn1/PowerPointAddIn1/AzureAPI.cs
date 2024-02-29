@@ -30,7 +30,6 @@ namespace PowerPointAddIn1
                     string Result;
 
                     Console.WriteLine("Speak into your microphone.");
-                    //Julius_Config.begin_getstream();
 
                     recognizer.Recognizing += (s, e) =>
                     {
