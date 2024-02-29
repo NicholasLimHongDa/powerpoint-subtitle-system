@@ -10,7 +10,7 @@ To get started, open the `*2021_nicholas/system/visualstudio/PowerPointAddIn1.sl
 
 #### Demonstration
 Watch the plugin in action.
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qYrbfTP71Kc?si=Wfwj5uCAtpSxRnIB" title="Demonstration" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+![Demo](https://www.youtube.com/embed/qYrbfTP71Kc?si=Wfwj5uCAtpSxRnIB)"
 
 #### Further info
 Further documentation in Japanese can be found in the readme.pdf file in `*2021_nicholas/readme/*`
