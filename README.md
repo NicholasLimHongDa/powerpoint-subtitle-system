@@ -10,7 +10,7 @@ To get started, open the `*2021_nicholas/system/visualstudio/PowerPointAddIn1.sl
 
 #### Demonstration
 Watch the plugin in action.
-![Demo](https://www.youtube.com/embed/qYrbfTP71Kc?si=Wfwj5uCAtpSxRnIB)"
+![Demo](https://github.com/NicholasLimHongDa/powerpoint-subtitle-system/assets/133950746/07193c16-2e8c-4b1d-a57e-e5d54d2e9386)
 
 #### Further info
 Further documentation in Japanese can be found in the readme.pdf file in `*2021_nicholas/readme/*`
