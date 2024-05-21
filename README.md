@@ -11,7 +11,7 @@ To get started, open the *`2021_nicholas/system/visualstudio/PowerPointAddIn1.sl
 #### Demonstration
 Watch the plugin in action.   
 
-[![Demo](https://img.youtube.com/vi/qYrbfTP71Kc/0.jpg)](https://www.youtube.com/watch?v=qYrbfTP71Kc)
+[![Demo](https://img.youtube.com/vi/qYrbfTP71Kc/0.jpg)](https://youtu.be/XckZ6nQZoCM)
 
 #### Further info
 Further documentation in Japanese can be found in the readme.pdf file in *`2021_nicholas/readme/`*
